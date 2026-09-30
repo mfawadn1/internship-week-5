@@ -1,0 +1,52 @@
+[
+  {
+    "id": "book_1",
+    "text": "Title: Clean Code: A Handbook of Agile Software Craftsmanship\nAuthor: Robert C. Martin\nCategory: Software Engineering\nDescription: Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. This book presents best practices for writing clean, readable, and maintainable software with meaningful names, small functions, and robust unit testing.",
+    "metadata": {
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "category": "Software Engineering",
+      "source": "Clean Code: A Handbook of Agile Software Craftsmanship"
+    }
+  },
+  {
+    "id": "book_2",
+    "text": "Title: Designing Data-Intensive Applications\nAuthor: Martin Kleppmann\nCategory: Database & Distributed Systems\nDescription: Data is at the center of many challenges in system design today. Difficult issues need to be figured out, such as scalability, consistency, reliability, efficiency, and maintainability. Covers storage engines, replication, partitioning, transactions, and Apache Kafka stream processing.",
+    "metadata": {
+      "title": "Designing Data-Intensive Applications",
+      "author": "Martin Kleppmann",
+      "category": "Database & Distributed Systems",
+      "source": "Designing Data-Intensive Applications"
+    }
+  },
+  {
+    "id": "book_3",
+    "text": "Title: The Pragmatic Programmer\nAuthor: David Thomas and Andrew Hunt\nCategory: Software Engineering\nDescription: Written as a series of self-contained sections and filled with entertaining anecdotes, thoughtful examples, and interesting analogies, this book illustrates the best approaches and major pitfalls of many different aspects of software development.",
+    "metadata": {
+      "title": "The Pragmatic Programmer",
+      "author": "David Thomas and Andrew Hunt",
+      "category": "Software Engineering",
+      "source": "The Pragmatic Programmer"
+    }
+  },
+  {
+    "id": "book_4",
+    "text": "Title: Dune\nAuthor: Frank Herbert\nCategory: Science Fiction\nDescription: Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only valuable commodity is the spice melange, capable of extending life and enabling interstellar space navigation.",
+    "metadata": {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "category": "Science Fiction",
+      "source": "Dune"
+    }
+  },
+  {
+    "id": "book_5",
+    "text": "Title: Pride and Prejudice\nAuthor: Jane Austen\nCategory: Romance / Classic Literature\nDescription: A romantic novel of manners following the character development of Elizabeth Bennet, the dynamic protagonist who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness.",
+    "metadata": {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": "Romance / Classic Literature",
+      "source": "Pride and Prejudice"
+    }
+  }
+]
